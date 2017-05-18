@@ -1,0 +1,31 @@
+DQ1:
+	link: http://www.woodus.com/den/gallery/graphics/dw1nes/box_art/dq1fc_jpn_front.jpg
+	
+	info: Released on Nintendo Entertainment System 1986
+	Available on MSX (1986),[8] Super Famicom (1993),[9] Game Boy Color (1999),[10] Satellaview (1998),[11] mobile phones (2004),[12] Wii (2011),[13] Android (2013) and iOS (2013)[7]
+
+DQ2:  Luminaries of the Legendary Line 悪霊の神々
+	link: http://www.woodus.com/den/gallery/graphics/dw2nes/box_art/dq2fc_jpn_front.jpg
+	
+	info: Released on Nintendo Entertainment System 1987
+	Also available on MSX (1988),[15] Super Famicom (1993),[9] Game Boy Color (1999),[10] mobile phones (2005),[16] Wii (2011),[13] Android (2014) and iOS (2014)
+		
+DQ3: The Seeds of Salvation そして伝説へ…
+	link: http://www.woodus.com/den/gallery/graphics/dw3nes/box_art/dq3fc_jpn_front.jpg
+	
+	info: Released on Nintendo Entertainment Systemn 1988
+	Also available on Super Famicom (1996),[18] Game Boy Color (2000),[19] mobile phones (2009),[20] Wii (2011),[13] Android (2014) and iOS (2014)
+	
+DQ4: The Chapters of the Chosen 導かれし者たち
+	link: http://www.woodus.com/den/gallery/graphics/dq9ds/wallpaper/dragonquest9_wallpaper_3_1920x1200.jpg
+	
+	info:Released on Nintendo Entertainment System 1990
+	Also available on PlayStation (2001),[23] Nintendo DS (2007),[22] Android (2014) and iOS (2014)
+
+DQ5:
+	
+	
+	Created by: Yuji Horii
+	Art by: Akira Toriyama
+	Music By: Koichi Sugiyama
+	 <source> https://en.wikipedia.org/wiki/List_of_Dragon_Quest_media
