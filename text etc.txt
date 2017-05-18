@@ -1,0 +1,26 @@
+DQ1:
+	link: http://www.woodus.com/den/gallery/graphics/dw1nes/box_art/dq1fc_jpn_front.jpg
+	
+	info: Dragon Quest is the first role-playing video game (RPG) in the Dragon Quest media franchise. It was developed by Chunsoft for the Family Computer (or Famicom for short) and published by Enix in Japan in 1986 as Dragon Quest and by Nintendo in 1989 in North America for the Nintendo Entertainment System (or NES) as Dragon Warrior. Dragon Quest has been ported and remade for several video game platforms, including the MSX, PC-9801, Super Famicom, Game Boy Color, and mobile phones. In play, players control a hero character who is charged with saving the Kingdom of Alefgard and rescuing its princess from the evil Dragonlord.
+
+	
+	Created by: Yuji Horii
+	Art by: Akira Toriyama
+	Music By: Koichi Sugiyama
+		<source>https://en.wikipedia.org/wiki/Dragon_Quest_(video_game)
+		
+DQ2:  Luminaries of the Legendary Line 悪霊の神々
+	link: http://www.woodus.com/den/gallery/graphics/dw2nes/box_art/dq2fc_jpn_front.jpg
+	
+	info: Dragon Quest II: Luminaries of the Legendary Line is a role-playing video game (RPG) developed by Chunsoft and published by Enix (later merging with Square to become Square Enix) in 1987 for the Family Computer (or Famicom) as a part of the Dragon Quest series. Enix's U.S. subsidiary published the American version of Dragon Quest II for the Nintendo Entertainment System (or NES) in 1990. Dragon Quest II is set one hundred years after the events of the first game.The game's story centers on the prince of Midenhall, who is ordered to stop an evil wizard named Hargon after Hargon destroys Moonbrooke Castle.
+	
+	Created by: Yuji Horii
+	Art by: Akira Toriyama
+	Music By: Koichi Sugiyama
+		<source>https://en.wikipedia.org/wiki/Dragon_Quest_II
+		
+DQ3: The Seeds of Salvation そして伝説へ…
+	link: http://www.woodus.com/den/gallery/graphics/dw3nes/box_art/dq3fc_jpn_front.jpg
+	
+	info:a role-playing video game developed by Chunsoft and published by Enix (now Square Enix). It is the third installment in the Dragon Quest series (known as Dragon Warrior in North America at the time of its original release) and the first released for the Family Computer (Famicom) in Japan and later for the Nintendo Entertainment System (NES) in North America. The game saw an enhanced remake for the Super Famicom (the Japanese version of the Super NES) in 1996 and the Game Boy Color in 2001, and a port to mobile phones and the Wii in 2009 and 2011. A version of the game for Android and iOS was released in Japan on September 25, 2014,[3] and worldwide as Dragon Quest III: The Seeds of Salvation on December 4, 2014. It was the first time the game was given an official English subtitle.The first three Dragon Quest games are part of the same story, and Dragon Warrior III is the first game chronologically, as well as the third game that features the hero Erdrick (Loto in the Japanese releases and subsequent localizations). The story follows "the Hero" who is tasked with saving the world from the archfiend Baramos. Gathering a group of companions into a party, the Hero must travel the world, stopping at various towns and locations, and find his way to the Demon Lord Baramos's lair.
+	
